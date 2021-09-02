@@ -11,4 +11,4 @@ once it finish you will see something like this:
 
 ![previewWindow](Info/window-preview.png?raw=true "Build Inspector Window")
 
-
+At the top, you will see all the information of your game build size and in the bottom list, you will see the heavy files included in the build, if you click on the file name it will automatically ping the file in your project view window so you can change the Import file settings to reduce the size.
